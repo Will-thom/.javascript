@@ -1,0 +1,3 @@
+whats mean vanilla javascript?
+
+The term vanilla script is used to refer to the pure JavaScript (or we can say plain JavaScript) without any type of additional library. Sometimes people often used it as a joke"nowadays several things can also be done without using any additional JavaScript libraries". The vanilla script is one of the lightest weight frameworks ever.
